@@ -7,7 +7,7 @@
 
 ## 🌐 Connect with me:
 
-<a href="[https://facebook.com/GiangVu](https://www.facebook.com/profile.php?id=61558558498965)">
+<a href="https://www.facebook.com/profile.php?id=61558558498965">
   <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
 <a href="mailto:Giangvu17102007@gmail.com">
