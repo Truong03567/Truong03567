@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giang
 
-🌱 A passionate developer from Vietnam 🌟  
+🌱 A developer from Vietnam 🌟  
 🔭 Currently learning & growing with Java + Vue 👨‍💻  
 
 ---
