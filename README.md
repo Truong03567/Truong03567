@@ -39,14 +39,8 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Truong03567&theme=dark&hide_border=false&show_icons=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Truong03567&theme=dark&hide_border=false&layout=compact" height="160"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Truong03567&theme=dark&hide_border=false"/>
 
 ---
 
-## 🚀 Profile Views
-
-<img src="https://visitcount.itsvg.in/api?id=Truong03567&icon=0&color=0" alt="View Counter"/>
